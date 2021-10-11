@@ -9,7 +9,6 @@ device side
 ROM changes:
 ==============================
 BrightnessSynchronizer: make brightness tolerance overlay-able
-FODCircleView: use onTimeChanged for burn-in protection
 Fix google widget timing issue
 KeyguardSlice: Fix ticker appearing for a split second on lockscreen
 LockPatternView: Fix a11y+BiometricPrompt related OOB exception
